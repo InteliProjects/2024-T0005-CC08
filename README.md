@@ -15,13 +15,13 @@ Desenvolver um dispositivo de tecnologia assistiva, para facilitar a interação
 ## 💻 Projetos Desenvolvidos: 
 
 - Grupo 1 - Fofuxos
-  - Link do repositório: https://github.com/InteliProjects/2024-T0005-CC08-G01
+  - Link do repositório: https://github.com/InteliProjects/2024-1B-T05-CC08-G01
 
 - Grupo 2 - Pimpolhos
-  - Link do repositório: https://github.com/InteliProjects/2024-T0005-CC08-G02
+  - Link do repositório: https://github.com/InteliProjects/2024-1B-T05-CC08-G02
 
 - Grupo 3 - Guiados pelo Axé
-  - Link do repositório: https://github.com/InteliProjects/2024-T0005-CC08-G03
+  - Link do repositório: https://github.com/InteliProjects/2024-1B-T05-CC08-G03
 
 - Grupo 4 - MIAU
-  - Link do repositório: https://github.com/InteliProjects/2024-T0005-CC08-G04
+  - Link do repositório: https://github.com/InteliProjects/2024-1B-T05-CC08-G04
